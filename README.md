@@ -1,68 +1,58 @@
-# 👩🏻‍💻 Nicollas Camargo
+# 👨‍💻 Nicollas Camargo
 
-**`Cientista de Dados\Engenheiro de Dados\Analista de Dados`**
+**Data Scientist | Data Engineer | Machine Learning Enthusiast**
 
-Me chamo Nicollas Camargo , tenho 23 anos e sou natural de São Paulo. Sou apaixonado por tecnologia. Atualmente cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, possuo um forte direcionamento e fascínio pelo universo dos dados. Minha trajetória profissional me equipou com habilidades sólidas de comunicação, resolução de problemas e foco no cliente — competências vitais para traduzir desafios de negócios em soluções tecnológicas.
+---
 
-Meu objetivo é atuar em ambientes inovadores, mergulhando em Ciência de Dados, Engenharia de Dados e Machine Learning. Sou movido pela curiosidade analítica e pela busca constante de aprimoramento técnico, visando não apenas escrever códigos, mas arquitetar inteligência que gere valor real.
+## 🧠 About Me
+
+I'm Nicollas Camargo, a Brazilian tech student passionate about data and artificial intelligence.
+
+- 🎓 Currently studying Systems Analysis and Development  
+- 📊 Focused on Data Science, Data Engineering & Machine Learning  
+- 🚀 Interested in building real-world data solutions  
+- 🌍 Future goal: Study and work abroad (UK 🇬🇧)  
+
+I aim to transform data into meaningful insights and scalable solutions.
+
+---
+
+## ⚙️ Tech Stack
+
+<div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+    <img width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
+</div>
+
+---
 
 
-### 🤖 Linguagens e Tecnologias
+## 📌 Featured Projects
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+🚧 [Meu portifólio](https://nicollascamargo.github.io/meu_portifolio/)
+[Landing Page](https://landing-pages-advocacia.vercel.app)
+- 📊 Data Analysis Project (Python)
+- 🤖 Machine Learning Model
+- 📈 Dashboard Project (Power BI / Python)
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📚 Currently Learning
 
-<p>
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=nicollascamargo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  
-  <img 
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollascamargo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+- Machine Learning  
+- Data Engineering  
+- Statistics for Data Science  
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: [Nicollas Abreu Svidevska de Camargo](www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351)
+- 📧 Email: nicollascamargo81@gmail.com
+
+---
+
+⭐ *Always learning. Always building.*
