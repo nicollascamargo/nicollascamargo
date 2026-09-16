@@ -35,17 +35,13 @@ Meu objetivo é transformar dados em insights relevantes e soluções escalávei
 
 ## 📌 Projetos em Destaque
 
-**[Click Manager](COLE_AQUI_O_LINK_DO_REPOSITORIO)** — sistema web de gestão para estúdio fotográfico, desenvolvido como projeto acadêmico (PIM III). Back-end em ASP.NET Core 8 com Entity Framework Core, autenticação JWT e banco de dados SQL Server; inclui documentação de acessibilidade (LIBRAS) e um capítulo aplicando Machine Learning ao sistema.
+**[Pipeline Vendas Agro](https://github.com/nicollascamargo/pipeline-vendas-agro)** — pipeline de ETL em Python processando dados de vendas do agronegócio, com testes automatizados de dashboard. ⭐ 1
 
-🔜 **Em desenvolvimento:** projeto de previsão de preços de imóveis (regressão com Python) — primeiro item do meu roadmap de portfólio em dados.
+**[Click Manager](https://github.com/nicollascamargo/click_manager)** — sistema web de gestão para estúdio fotográfico, desenvolvido como projeto acadêmico (PIM III). Back-end em ASP.NET Core 8 com Entity Framework Core, autenticação JWT e banco de dados SQL Server; inclui documentação de acessibilidade (LIBRAS) e um capítulo aplicando Machine Learning ao sistema.
 
 **[Portfólio](https://nicollascamargo.github.io/meu_portifolio/)** — página central, atualizada conforme cada projeto é publicado.
 
----
-
-## 🛠️ Outros Projetos
-
-- [Landing Page — Advocacia](https://landing-pages-advocacia.vercel.app) — projeto de front-end, fora do escopo de dados.
+🔜 Próximo no roadmap: projeto de previsão de preços de imóveis (regressão com Python).
 
 ---
 
