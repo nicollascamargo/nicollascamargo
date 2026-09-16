@@ -1,4 +1,4 @@
-# 👨‍💻 Nicollas Camargo
+#  Nicollas Camargo
 
 **Data Scientist | Data Engineer | Machine Learning Enthusiast**
 
