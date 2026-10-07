@@ -2,11 +2,13 @@
 
 <img src="./banner.svg" alt="Nicollas Camargo" width="100%"/>
 
-<h3>Charting raw data into reliable decisions.</h3>
+<a href="https://github.com/nicollascamargo">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Charting+raw+data+into+reliable+decisions;ETL+pipelines+%C2%B7+Forecasting+%C2%B7+APIs;From+first+draft+to+something+that+runs+and+is+tested" alt="Typing animation"/>
+</a>
 
-Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Brazil.<br>
-I build <b>ETL pipelines, forecasting models, APIs and backend systems</b>,<br>
-from the first draft to something that runs and is tested.
+<br><br>
+
+Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Brazil.
 
 <br>
 
@@ -152,5 +154,7 @@ Regression project with Python: feature engineering, model comparison and evalua
 **Have a data problem in mind? Open a channel.**
 
 <a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/OPEN_COMMS-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Open comms"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%" alt=""/>
 
 </div>
