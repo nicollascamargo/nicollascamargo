@@ -2,7 +2,7 @@
 
 <img src="./banner.svg" alt="Nicollas Camargo" width="100%"/>
 
-<h3>I turn raw data into reliable decisions.</h3>
+<h3>Charting raw data into reliable decisions.</h3>
 
 Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Brazil.<br>
 I build <b>ETL pipelines, forecasting models, APIs and backend systems</b>,<br>
@@ -10,15 +10,15 @@ from the first draft to something that runs and is tested.
 
 <br>
 
-<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-4C8DFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-B8FF5C?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="https://nicollascamargo.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-6D4AFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF8A3D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://nicollascamargo.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
 <br>
 
-## ✦ What I do
+## 🛰️ Ship Systems
 
 <table>
 <tr>
@@ -51,13 +51,13 @@ SQL and Power BI to turn data into dashboards people actually use to decide.
 </tr>
 </table>
 
-## ✦ Projects
+## 🚀 Missions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🟢 **DATA / ML**
+🟢 **MISSION COMPLETE · DATA / ML**
 
 ### [Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura)
 
@@ -68,7 +68,7 @@ Chicken price forecasting model in Python, served through a FastAPI API and vali
 </td>
 <td width="50%" valign="top">
 
-🟢 **DATA ENGINEERING**
+🟢 **MISSION COMPLETE · DATA ENGINEERING**
 
 ### [Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro)
 
@@ -81,7 +81,7 @@ ETL pipeline in Python processing agribusiness sales data, with automated dashbo
 <tr>
 <td width="50%" valign="top">
 
-🔵 **ACADEMIC (PIM III)**
+🔵 **ACADEMY TRAINING · PIM III**
 
 ### Click Manager
 
@@ -92,7 +92,7 @@ Web management system for a photography studio: JWT authentication, accessibilit
 </td>
 <td width="50%" valign="top">
 
-🟡 **COMING SOON**
+🟠 **NEXT DESTINATION**
 
 ### House Price Prediction
 
@@ -104,14 +104,14 @@ Regression project with Python: feature engineering, model comparison and evalua
 </tr>
 </table>
 
-## ✦ How I work
+## 🧭 Flight Plan
 
 <table>
 <tr>
-<th>1. Understand</th>
-<th>2. Explore</th>
+<th>1. Scout</th>
+<th>2. Map</th>
 <th>3. Build</th>
-<th>4. Ship</th>
+<th>4. Launch</th>
 </tr>
 <tr>
 <td>Define the question the data needs to answer.</td>
@@ -121,7 +121,7 @@ Regression project with Python: feature engineering, model comparison and evalua
 </tr>
 </table>
 
-## ✦ Tech stack
+## 🛠️ Instruments
 
 <div align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -138,7 +138,7 @@ Regression project with Python: feature engineering, model comparison and evalua
   <img width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
 </div>
 
-## ✦ Currently
+## 📡 Current Heading
 
 - Studying statistics for data science, machine learning and data engineering
 - Systems Analysis and Development (graduating Dec 2026)
@@ -149,8 +149,8 @@ Regression project with Python: feature engineering, model comparison and evalua
 
 <div align="center">
 
-**Have a data problem in mind?**
+**Have a data problem in mind? Open a channel.**
 
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-B8FF5C?style=for-the-badge&logo=gmail&logoColor=black" alt="Get in touch"/></a>
+<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/OPEN_COMMS-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Open comms"/></a>
 
 </div>
