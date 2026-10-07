@@ -1,38 +1,47 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Nicollas Camargo" width="100%"/>
+<img src="./banner-terminal.svg" alt="Nicollas Camargo" width="100%"/>
 
 <a href="https://github.com/nicollascamargo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Charting+raw+data+into+reliable+decisions;ETL+pipelines+%C2%B7+Forecasting+%C2%B7+APIs;From+first+draft+to+something+that+runs+and+is+tested" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4ADE80&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+reliable+decisions;ETL+pipelines+%C2%B7+Forecasting+%C2%B7+APIs;From+first+draft+to+something+that+runs+and+is+tested" alt="Typing animation"/>
 </a>
 
 <br><br>
 
-Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Brazil.
-
-<br>
-
-<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF8A3D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="https://nicollascamargo.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-22D3EE?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-4ADE80?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://nicollascamargo.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/></a>
 
 </div>
 
 <br>
 
-## 🛰️ Ship Systems
+## `$ whoami`
+
+```yaml
+name:       Nicollas Camargo
+role:       Data Science · Data Engineering · Machine Learning
+location:   Sorocaba, SP, Brazil
+studying:   Systems Analysis and Development (graduating Dec 2026)
+languages:  [Portuguese (native), English (C1)]
+open_to:    junior roles and internships in data and AI, remote or international
+```
+
+I build **ETL pipelines, forecasting models, APIs and backend systems**, from the first draft to something that runs and is tested.
+
+## `$ ls capabilities/`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 Data pipelines
+**`data_pipelines/`**
 ETL workflows that collect, clean and load data, with automated tests so the numbers can be trusted.
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Forecasting & ML
+**`forecasting_ml/`**
 Predictive models validated the right way (walk-forward for time series) and served through an API.
 
 </td>
@@ -40,26 +49,26 @@ Predictive models validated the right way (walk-forward for time series) and ser
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend & APIs
+**`backend_apis/`**
 FastAPI and ASP.NET Core services with authentication, relational databases and documentation.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics
+**`analytics/`**
 SQL and Power BI to turn data into dashboards people actually use to decide.
 
 </td>
 </tr>
 </table>
 
-## 🚀 Missions
+## `$ git log --projects`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🟢 **MISSION COMPLETE · DATA / ML**
+`[DATA / ML]` · `status: shipped`
 
 ### [Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura)
 
@@ -70,7 +79,7 @@ Chicken price forecasting model in Python, served through a FastAPI API and vali
 </td>
 <td width="50%" valign="top">
 
-🟢 **MISSION COMPLETE · DATA ENGINEERING**
+`[DATA ENGINEERING]` · `status: shipped`
 
 ### [Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro)
 
@@ -83,7 +92,7 @@ ETL pipeline in Python processing agribusiness sales data, with automated dashbo
 <tr>
 <td width="50%" valign="top">
 
-🔵 **ACADEMY TRAINING · PIM III**
+`[ACADEMIC · PIM III]` · `status: delivered`
 
 ### Click Manager
 
@@ -94,7 +103,7 @@ Web management system for a photography studio: JWT authentication, accessibilit
 </td>
 <td width="50%" valign="top">
 
-🟠 **NEXT DESTINATION**
+`[DATA / ML]` · `status: in progress`
 
 ### House Price Prediction
 
@@ -106,24 +115,16 @@ Regression project with Python: feature engineering, model comparison and evalua
 </tr>
 </table>
 
-## 🧭 Flight Plan
+## `$ ./workflow.sh`
 
-<table>
-<tr>
-<th>1. Scout</th>
-<th>2. Map</th>
-<th>3. Build</th>
-<th>4. Launch</th>
-</tr>
-<tr>
-<td>Define the question the data needs to answer.</td>
-<td>Clean, profile and validate the data before modeling.</td>
-<td>Model or pipeline with tests and honest validation.</td>
-<td>Deploy, document and make it easy to run.</td>
-</tr>
-</table>
+```bash
+1. scout   # define the question the data needs to answer
+2. map     # clean, profile and validate the data before modeling
+3. build   # model or pipeline, with tests and honest validation
+4. launch  # deploy, document and make it easy to run
+```
 
-## 🛠️ Instruments
+## `$ cat stack.txt`
 
 <div align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -140,21 +141,22 @@ Regression project with Python: feature engineering, model comparison and evalua
   <img width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
 </div>
 
-## 📡 Current Heading
+## `$ ./now`
 
-- Studying statistics for data science, machine learning and data engineering
-- Systems Analysis and Development (graduating Dec 2026)
-- Looking for junior roles and internships in data and AI, remote or international
-- Languages: Portuguese (native), English (C1)
+```text
+> studying statistics for data science, machine learning and data engineering
+> building the next portfolio project: house price prediction
+> looking for junior roles and internships in data and AI
+```
 
 <br>
 
 <div align="center">
 
-**Have a data problem in mind? Open a channel.**
+**`$ ./contact --open`**
 
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/OPEN_COMMS-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Open comms"/></a>
+<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/SEND_MESSAGE-4ADE80?style=for-the-badge&logo=gmail&logoColor=black" alt="Send message"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,22&height=110&section=footer" width="100%" alt=""/>
 
 </div>
