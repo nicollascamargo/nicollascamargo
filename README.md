@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner-animado.svg" alt="Nicollas Camargo" width="100%"/>
+<img src="./banner.svg" alt="Nicollas Camargo" width="100%"/>
 
 <a href="https://github.com/nicollascamargo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Charting+raw+data+into+reliable+decisions;ETL+pipelines+%C2%B7+Forecasting+%C2%B7+APIs;From+first+draft+to+something+that+runs+and+is+tested" alt="Typing animation"/>
