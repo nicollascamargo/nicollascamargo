@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 430" width="800" height="430">
+  <style>
+    text{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif;font-weight:600}
+    .t1{fill:#fff;animation:tw 3s ease-in-out infinite}.t2{fill:#fff;animation:tw 4.5s ease-in-out infinite 1s}.t3{fill:#fff;animation:tw 2.2s ease-in-out infinite .5s}
+    @keyframes tw{0%,100%{opacity:.1}50%{opacity:.9}}
+    .sun{animation:sun 3s ease-in-out infinite}
+    @keyframes sun{0%,100%{opacity:.55}50%{opacity:1}}
+  </style>
+  <defs>
+    <radialGradient id="bg" cx="0.5" cy="0.5" r="0.7"><stop offset="0%" stop-color="#0E1640"/><stop offset="100%" stop-color="#04050D"/></radialGradient>
+    <radialGradient id="sunc" cx="0.4" cy="0.4" r="0.8"><stop offset="0%" stop-color="#FFE9A8"/><stop offset="60%" stop-color="#FF9F43"/><stop offset="100%" stop-color="#C2410C"/></radialGradient>
+    <radialGradient id="sunh" cx="0.5" cy="0.5" r="0.5"><stop offset="40%" stop-color="#FF9F43" stop-opacity="0.6"/><stop offset="100%" stop-color="#FF9F43" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="430" rx="16" fill="url(#bg)"/>
+  <circle cx="706" cy="273" r="1.3" class="t3"/><circle cx="502" cy="409" r="0.7" class="t3"/><circle cx="66" cy="135" r="0.7" class="t2"/><circle cx="51" cy="403" r="0.7" class="t3"/><circle cx="471" cy="295" r="0.7" class="t1"/><circle cx="461" cy="174" r="1.3" class="t3"/><circle cx="628" cy="270" r="0.7" class="t3"/><circle cx="291" cy="239" r="1.3" class="t3"/><circle cx="497" cy="267" r="0.7" class="t3"/><circle cx="543" cy="140" r="1.3" class="t1"/><circle cx="466" cy="78" r="1" class="t1"/><circle cx="409" cy="234" r="1" class="t1"/><circle cx="695" cy="131" r="1" class="t1"/><circle cx="225" cy="350" r="1" class="t1"/><circle cx="166" cy="374" r="1.3" class="t3"/><circle cx="382" cy="81" r="1" class="t1"/><circle cx="486" cy="120" r="1.3" class="t1"/><circle cx="415" cy="257" r="0.7" class="t3"/><circle cx="237" cy="90" r="1.3" class="t2"/><circle cx="535" cy="214" r="1" class="t2"/><circle cx="208" cy="190" r="1" class="t1"/><circle cx="747" cy="195" r="0.7" class="t2"/><circle cx="575" cy="242" r="1" class="t3"/><circle cx="26" cy="204" r="1" class="t3"/><circle cx="646" cy="159" r="1.3" class="t1"/><circle cx="123" cy="411" r="0.7" class="t1"/><circle cx="94" cy="143" r="1" class="t1"/><circle cx="193" cy="146" r="0.7" class="t2"/><circle cx="700" cy="140" r="1" class="t1"/><circle cx="557" cy="271" r="1.3" class="t2"/><circle cx="725" cy="175" r="0.7" class="t2"/><circle cx="66" cy="417" r="1.3" class="t1"/><circle cx="443" cy="45" r="1" class="t1"/><circle cx="657" cy="53" r="1" class="t1"/><circle cx="630" cy="121" r="0.7" class="t2"/><circle cx="132" cy="240" r="0.7" class="t2"/><circle cx="574" cy="221" r="1" class="t3"/><circle cx="140" cy="30" r="1.3" class="t3"/><circle cx="252" cy="64" r="0.7" class="t2"/><circle cx="59" cy="100" r="0.7" class="t2"/><circle cx="651" cy="164" r="1.3" class="t1"/><circle cx="304" cy="236" r="1.3" class="t3"/><circle cx="190" cy="146" r="1" class="t1"/><circle cx="264" cy="26" r="0.7" class="t1"/><circle cx="758" cy="266" r="1.3" class="t1"/><circle cx="534" cy="251" r="0.7" class="t2"/><circle cx="116" cy="345" r="1.3" class="t2"/><circle cx="680" cy="261" r="1.3" class="t2"/><circle cx="526" cy="165" r="1.3" class="t1"/><circle cx="243" cy="183" r="0.7" class="t3"/><circle cx="754" cy="333" r="0.7" class="t2"/><circle cx="363" cy="35" r="0.7" class="t1"/><circle cx="80" cy="328" r="1.3" class="t2"/><circle cx="449" cy="91" r="0.7" class="t1"/><circle cx="689" cy="203" r="1.3" class="t3"/><circle cx="296" cy="314" r="0.7" class="t3"/><circle cx="308" cy="31" r="1" class="t1"/><circle cx="169" cy="145" r="1" class="t1"/><circle cx="277" cy="194" r="1" class="t3"/><circle cx="339" cy="133" r="0.7" class="t2"/>
+  <circle cx="400" cy="215" r="78" fill="none" stroke="#2A3A7A" stroke-width="1" stroke-dasharray="3 6"/><circle cx="400" cy="215" r="118" fill="none" stroke="#2A3A7A" stroke-width="1" stroke-dasharray="3 6"/><circle cx="400" cy="215" r="158" fill="none" stroke="#2A3A7A" stroke-width="1" stroke-dasharray="3 6"/><circle cx="400" cy="215" r="196" fill="none" stroke="#2A3A7A" stroke-width="1" stroke-dasharray="3 6"/>
+  <circle class="sun" cx="400" cy="215" r="62" fill="url(#sunh)"/>
+  <circle cx="400" cy="215" r="34" fill="url(#sunc)"/>
+  <text x="400" y="220" text-anchor="middle" font-size="14" font-weight="800" fill="#2B1203" letter-spacing="2">DATA</text>
+  <g><animateTransform attributeName="transform" type="rotate" from="0 400 215" to="360 400 215" dur="22s" repeatCount="indefinite"/>
+  <g transform="translate(478 215)"><circle r="9" fill="#4B8BBE"/><circle r="14" fill="#4B8BBE" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="22s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">Python</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="180 400 215" to="540 400 215" dur="22s" repeatCount="indefinite"/>
+  <g transform="translate(478 215)"><circle r="9" fill="#F29111"/><circle r="14" fill="#F29111" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-180 0 0" to="-540 0 0" dur="22s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">SQL</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="60 400 215" to="420 400 215" dur="30s" repeatCount="indefinite"/>
+  <g transform="translate(518 215)"><circle r="9" fill="#B58CFF"/><circle r="14" fill="#B58CFF" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-60 0 0" to="-420 0 0" dur="30s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">pandas</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="240 400 215" to="600 400 215" dur="30s" repeatCount="indefinite"/>
+  <g transform="translate(518 215)"><circle r="9" fill="#F7931E"/><circle r="14" fill="#F7931E" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-240 0 0" to="-600 0 0" dur="30s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">scikit-learn</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="120 400 215" to="480 400 215" dur="40s" repeatCount="indefinite"/>
+  <g transform="translate(558 215)"><circle r="9" fill="#05C3A5"/><circle r="14" fill="#05C3A5" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-120 0 0" to="-480 0 0" dur="40s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">FastAPI</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="300 400 215" to="660 400 215" dur="40s" repeatCount="indefinite"/>
+  <g transform="translate(558 215)"><circle r="9" fill="#7C5CFF"/><circle r="14" fill="#7C5CFF" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-300 0 0" to="-660 0 0" dur="40s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">ASP.NET Core</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="30 400 215" to="390 400 215" dur="54s" repeatCount="indefinite"/>
+  <g transform="translate(596 215)"><circle r="9" fill="#F2C811"/><circle r="14" fill="#F2C811" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-30 0 0" to="-390 0 0" dur="54s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">Power BI</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="210 400 215" to="570 400 215" dur="54s" repeatCount="indefinite"/>
+  <g transform="translate(596 215)"><circle r="9" fill="#F05032"/><circle r="14" fill="#F05032" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-210 0 0" to="-570 0 0" dur="54s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">Git</text></g></g></g><g><animateTransform attributeName="transform" type="rotate" from="330 400 215" to="690 400 215" dur="54s" repeatCount="indefinite"/>
+  <g transform="translate(596 215)"><circle r="9" fill="#3B82F6"/><circle r="14" fill="#3B82F6" opacity="0.18"/>
+    <g><animateTransform attributeName="transform" type="rotate" from="-330 0 0" to="-690 0 0" dur="54s" repeatCount="indefinite"/>
+      <text x="17" y="4" font-size="13" fill="#E8EEFF">R</text></g></g></g>
+</svg>
