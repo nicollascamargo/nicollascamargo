@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <style>
+    .tw1{animation:tw 3s ease-in-out infinite}
+    .tw2{animation:tw 4.5s ease-in-out infinite 1s}
+    .tw3{animation:tw 2.2s ease-in-out infinite .5s}
+    @keyframes tw{0%,100%{opacity:.1}50%{opacity:1}}
+    .shoot{opacity:0;animation:shoot 8s linear infinite}
+    .s2{animation-delay:2.7s}
+    .s3{animation-delay:5.2s}
+    @keyframes shoot{0%{transform:translate(0,0);opacity:0}2%{opacity:1}12%{transform:translate(430px,215px);opacity:0}100%{transform:translate(430px,215px);opacity:0}}
+    .neb{animation:drift 18s ease-in-out infinite alternate}
+    @keyframes drift{from{transform:translate(-50px,0)}to{transform:translate(50px,16px)}}
+    .spin{animation:spin 16s linear infinite}
+    @keyframes spin{from{transform:translateX(0)}to{transform:translateX(-90px)}}
+    .ringglow{animation:rg 3.5s ease-in-out infinite}
+    @keyframes rg{0%,100%{stroke-opacity:.3}50%{stroke-opacity:.85}}
+    .float{animation:float 7s ease-in-out infinite}
+    @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+    .atmo{animation:atmo 5s ease-in-out infinite}
+    @keyframes atmo{0%,100%{opacity:.55}50%{opacity:1}}
+    .flame{transform-box:fill-box;transform-origin:right center;animation:fl .11s ease-in-out infinite alternate}
+    @keyframes fl{from{transform:scaleX(.5)}to{transform:scaleX(1.35)}}
+    .role{opacity:0;animation:role 9s infinite}
+    .r2{animation-delay:3s}
+    .r3{animation-delay:6s}
+    @keyframes role{0%{opacity:0;transform:translateY(12px)}5%,28%{opacity:1;transform:translateY(0)}33%,100%{opacity:0;transform:translateY(-12px)}}
+    .blink{animation:blink .9s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    .glow{animation:glow 4s ease-in-out infinite}
+    @keyframes glow{0%,100%{filter:drop-shadow(0 0 3px #00E5FF)}50%{filter:drop-shadow(0 0 14px #7C5CFF)}}
+    .dash{stroke-dasharray:14 10;animation:dash 1.2s linear infinite}
+    @keyframes dash{to{stroke-dashoffset:-24}}
+    .pulse{animation:pulse 1.8s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.3;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}
+    .node{transform-box:fill-box;transform-origin:center}
+    .par{animation:par 90s linear infinite}
+    @keyframes par{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+    .par2{animation:par 140s linear infinite}
+  </style>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#04050D"/><stop offset="100%" stop-color="#0C1236"/>
+    </linearGradient>
+    <radialGradient id="neb1" cx="0.2" cy="0.3" r="0.5"><stop offset="0%" stop-color="#7C5CFF" stop-opacity="0.5"/><stop offset="100%" stop-color="#7C5CFF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="neb2" cx="0.8" cy="0.85" r="0.5"><stop offset="0%" stop-color="#00E5FF" stop-opacity="0.35"/><stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="neb3" cx="0.55" cy="0.1" r="0.4"><stop offset="0%" stop-color="#FF4D8D" stop-opacity="0.22"/><stop offset="100%" stop-color="#FF4D8D" stop-opacity="0"/></radialGradient>
+    <radialGradient id="planet" cx="0.35" cy="0.35" r="0.8"><stop offset="0%" stop-color="#FFC58A"/><stop offset="60%" stop-color="#D2561F"/><stop offset="100%" stop-color="#4A1708"/></radialGradient>
+    <radialGradient id="shade" cx="0.3" cy="0.3" r="0.85"><stop offset="40%" stop-color="#000" stop-opacity="0"/><stop offset="100%" stop-color="#000" stop-opacity="0.78"/></radialGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5"><stop offset="70%" stop-color="#FF8A3D" stop-opacity="0.5"/><stop offset="100%" stop-color="#FF8A3D" stop-opacity="0"/></radialGradient>
+    <linearGradient id="tail" x1="1" y1="1" x2="0" y2="0"><stop offset="0%" stop-color="#fff" stop-opacity="1"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="pclip"><circle cx="0" cy="0" r="56"/></clipPath>
+    <clipPath id="tclip"><rect x="55" y="92" height="92" width="0"><animate attributeName="width" values="0;640;640;0" keyTimes="0;.34;.92;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <g id="blot">
+      <ellipse cx="20" cy="-28" rx="24" ry="7" fill="#7A2A0C" opacity="0.55"/>
+      <ellipse cx="55" cy="-8" rx="30" ry="6" fill="#FFD9A8" opacity="0.35"/>
+      <ellipse cx="30" cy="14" rx="26" ry="8" fill="#7A2A0C" opacity="0.5"/>
+      <ellipse cx="65" cy="34" rx="22" ry="6" fill="#FFD9A8" opacity="0.3"/>
+    </g>
+    <g id="stars" fill="#FFFFFF" opacity="0.55"><circle cx="668" cy="82" r="1.4"/><circle cx="103" cy="42" r="0.7"/><circle cx="753" cy="303" r="0.7"/><circle cx="1044" cy="114" r="0.7"/><circle cx="181" cy="227" r="1.4"/><circle cx="148" cy="128" r="0.7"/><circle cx="1133" cy="222" r="0.7"/><circle cx="1163" cy="68" r="0.9"/><circle cx="131" cy="300" r="1.4"/><circle cx="106" cy="118" r="0.7"/><circle cx="1145" cy="73" r="1.1"/><circle cx="863" cy="78" r="0.7"/><circle cx="1174" cy="162" r="0.9"/><circle cx="216" cy="302" r="0.9"/><circle cx="767" cy="54" r="0.7"/><circle cx="1160" cy="35" r="0.9"/><circle cx="1021" cy="353" r="1.4"/><circle cx="648" cy="243" r="1.4"/><circle cx="745" cy="158" r="0.9"/><circle cx="373" cy="129" r="0.7"/><circle cx="1181" cy="158" r="1.4"/><circle cx="708" cy="234" r="1.1"/><circle cx="154" cy="65" r="1.4"/><circle cx="342" cy="180" r="0.9"/><circle cx="1006" cy="220" r="0.7"/><circle cx="163" cy="290" r="1.1"/><circle cx="701" cy="184" r="1.4"/><circle cx="1192" cy="238" r="0.7"/><circle cx="196" cy="143" r="1.4"/><circle cx="138" cy="36" r="1.1"/><circle cx="1188" cy="353" r="1.4"/><circle cx="587" cy="202" r="1.1"/><circle cx="51" cy="241" r="1.1"/><circle cx="349" cy="317" r="0.7"/><circle cx="1016" cy="35" r="0.9"/><circle cx="593" cy="71" r="0.9"/><circle cx="819" cy="205" r="1.4"/><circle cx="170" cy="90" r="1.4"/><circle cx="827" cy="286" r="1.1"/><circle cx="285" cy="225" r="1.1"/><circle cx="855" cy="188" r="1.4"/><circle cx="477" cy="82" r="0.7"/><circle cx="365" cy="82" r="0.9"/><circle cx="482" cy="11" r="1.4"/><circle cx="378" cy="139" r="1.1"/><circle cx="13" cy="79" r="1.4"/><circle cx="1099" cy="194" r="1.1"/><circle cx="262" cy="268" r="0.7"/><circle cx="940" cy="353" r="1.4"/><circle cx="820" cy="209" r="1.4"/><circle cx="217" cy="251" r="1.4"/><circle cx="132" cy="102" r="0.7"/><circle cx="432" cy="230" r="0.9"/><circle cx="230" cy="179" r="0.7"/><circle cx="214" cy="5" r="0.9"/><circle cx="1103" cy="56" r="1.1"/><circle cx="57" cy="41" r="0.9"/><circle cx="775" cy="81" r="1.1"/><circle cx="716" cy="313" r="1.1"/><circle cx="976" cy="67" r="0.7"/><circle cx="1004" cy="243" r="1.4"/><circle cx="995" cy="164" r="0.7"/><circle cx="300" cy="57" r="1.1"/><circle cx="547" cy="250" r="0.9"/><circle cx="1062" cy="16" r="0.9"/><circle cx="1086" cy="190" r="0.9"/><circle cx="1117" cy="18" r="1.1"/><circle cx="191" cy="138" r="1.1"/><circle cx="347" cy="187" r="0.9"/><circle cx="1095" cy="282" r="1.1"/></g>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <g class="neb">
+    <rect x="-80" y="-30" width="1360" height="420" fill="url(#neb1)"/>
+    <rect x="-80" y="-30" width="1360" height="420" fill="url(#neb2)"/>
+    <rect x="-80" y="-30" width="1360" height="420" fill="url(#neb3)"/>
+  </g>
+
+  <g class="par"><use href="#stars" x="0"/><use href="#stars" x="1200"/></g>
+  <g class="par2" opacity="0.6" transform="scale(1 1)"><use href="#stars" x="0" y="0"/><use href="#stars" x="1200" y="0"/></g>
+  <g fill="#FFFFFF"><circle class="tw1" cx="466" cy="321" r="1.3"/><circle class="tw2" cx="500" cy="213" r="1.3"/><circle class="tw3" cx="419" cy="273" r="1.9"/><circle class="tw1" cx="738" cy="22" r="1"/><circle class="tw2" cx="582" cy="249" r="1.6"/><circle class="tw3" cx="406" cy="317" r="1.6"/><circle class="tw1" cx="925" cy="186" r="1.6"/><circle class="tw2" cx="174" cy="120" r="1"/><circle class="tw3" cx="474" cy="248" r="1.3"/><circle class="tw1" cx="701" cy="112" r="1.9"/><circle class="tw2" cx="13" cy="253" r="1.6"/><circle class="tw3" cx="183" cy="346" r="1"/><circle class="tw1" cx="805" cy="110" r="1.9"/><circle class="tw2" cx="375" cy="230" r="1.6"/><circle class="tw3" cx="187" cy="210" r="1.9"/><circle class="tw1" cx="832" cy="51" r="1.3"/><circle class="tw2" cx="358" cy="73" r="1"/><circle class="tw3" cx="319" cy="310" r="1.9"/><circle class="tw1" cx="309" cy="321" r="1.9"/><circle class="tw2" cx="727" cy="87" r="1.3"/><circle class="tw3" cx="53" cy="15" r="1"/><circle class="tw1" cx="1088" cy="79" r="1.9"/><circle class="tw2" cx="408" cy="116" r="1"/><circle class="tw3" cx="525" cy="116" r="1.6"/><circle class="tw1" cx="1036" cy="131" r="1.6"/><circle class="tw2" cx="541" cy="286" r="1.9"/><circle class="tw3" cx="278" cy="39" r="1.6"/><circle class="tw1" cx="948" cy="347" r="1.9"/><circle class="tw2" cx="1037" cy="74" r="1.3"/><circle class="tw3" cx="1082" cy="269" r="1"/><circle class="tw1" cx="911" cy="101" r="1"/><circle class="tw2" cx="316" cy="96" r="1.3"/><circle class="tw3" cx="979" cy="324" r="1"/><circle class="tw1" cx="1149" cy="39" r="1.6"/></g>
+
+  <g transform="translate(120 10)"><g class="shoot"><line x1="0" y1="0" x2="-95" y2="-47" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2.3" fill="#fff"/></g></g>
+  <g transform="translate(420 0)"><g class="shoot s2"><line x1="0" y1="0" x2="-95" y2="-47" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2.3" fill="#fff"/></g></g>
+  <g transform="translate(30 130)"><g class="shoot s3"><line x1="0" y1="0" x2="-95" y2="-47" stroke="url(#tail)" stroke-width="2" stroke-linecap="round"/><circle r="2.3" fill="#fff"/></g></g>
+
+  <!-- data constellation: raw data -> insight -->
+  <g>
+    <path d="M715 262 L765 232 L808 248 L855 192 L893 204 L935 138" fill="none" stroke="#00E5FF" stroke-opacity="0.65" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" pathLength="300" stroke-dasharray="300" stroke-dashoffset="300">
+      <animate attributeName="stroke-dashoffset" values="300;300;0;0;300" keyTimes="0;.22;.6;.93;1" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <g fill="#E8F7FF">
+      <circle class="node pulse" cx="715" cy="262" r="4"/><circle class="node pulse" cx="765" cy="232" r="3"/>
+      <circle class="node pulse" cx="808" cy="248" r="3"/><circle class="node pulse" cx="855" cy="192" r="4"/>
+      <circle class="node pulse" cx="893" cy="204" r="3"/><circle class="node pulse" cx="935" cy="138" r="6" fill="#FFB36B"/>
+    </g>
+    <g font-family="Courier New, monospace" font-size="12" fill="#9BE7FF">
+      <text x="690" y="284">raw data</text><text x="835" y="176">model</text><text x="905" y="124" fill="#FFB36B">insight</text>
+    </g>
+  </g>
+
+  <g transform="translate(1075 185)">
+    <g class="float">
+      <circle r="84" fill="url(#halo)" class="atmo"/>
+      <g transform="rotate(-18)">
+        <ellipse rx="112" ry="25" fill="none" stroke="#9BE7FF" stroke-width="6" class="ringglow"/>
+        <ellipse rx="132" ry="30" fill="none" stroke="#FF8A3D" stroke-width="2" stroke-opacity="0.45"/>
+      </g>
+      <circle r="56" fill="url(#planet)"/>
+      <g clip-path="url(#pclip)"><g class="spin"><use href="#blot" x="-90"/><use href="#blot" x="-10"/><use href="#blot" x="70"/><use href="#blot" x="150"/><use href="#blot" x="230"/></g></g>
+      <circle r="56" fill="url(#shade)"/>
+      <g transform="rotate(-18)"><path d="M-112 0 A112 25 0 0 0 112 0" fill="none" stroke="#9BE7FF" stroke-width="6" class="ringglow"/></g>
+      <g transform="rotate(-18)"><circle r="6" fill="#DDE8FF"><animateMotion dur="9s" repeatCount="indefinite" path="M155 0 A155 36 0 1 1 -155 0 A155 36 0 1 1 155 0"/></circle></g>
+    </g>
+  </g>
+
+  <g>
+    <animateMotion dur="16s" repeatCount="indefinite" rotate="auto" path="M-90 325 C 300 262, 760 340, 1300 215"/>
+    <polygon points="0,0 -26,-9 -20,0 -26,9" fill="#E8F1FF"/>
+    <polygon points="-6,0 -20,-4 -20,4" fill="#00E5FF"/>
+    <polygon class="flame" points="-24,-3 -52,0 -24,3" fill="#FF8A3D"/>
+  </g>
+
+  <text x="60" y="70" font-family="Courier New, monospace" font-size="15" letter-spacing="6" fill="#00E5FF" opacity="0.95">// MISSION LOG: DATA EXPEDITION<tspan class="blink">_</tspan></text>
+  <g clip-path="url(#tclip)">
+    <text class="glow" x="60" y="155" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="70" font-weight="800" fill="#FFFFFF" textLength="620" lengthAdjust="spacingAndGlyphs">Nicollas Camargo</text>
+  </g>
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#FFB36B">
+    <text class="role" x="62" y="205">▸ Data Science</text>
+    <text class="role r2" x="62" y="205">▸ Data Engineering</text>
+    <text class="role r3" x="62" y="205">▸ Machine Learning</text>
+  </g>
+  <line class="dash" x1="60" y1="228" x2="470" y2="228" stroke="#00E5FF" stroke-opacity="0.7" stroke-width="2"/>
+  <g font-family="Courier New, monospace" font-size="14" fill="#A7F3D0">
+    <circle class="node pulse" cx="68" cy="262" r="5" fill="#4ADE80"/>
+    <text x="84" y="267" letter-spacing="2">STATUS: OPEN TO NEW MISSIONS</text>
+    <text x="62" y="294" letter-spacing="2" fill="#7F8DB5">SECTOR: SOROCABA, SP · BRAZIL</text>
+  </g>
+</svg>
