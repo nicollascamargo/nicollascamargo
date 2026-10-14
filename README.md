@@ -8,10 +8,7 @@
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicollascamargo/nicollascamargo/main/scene-night.svg">
-  <img src="./scene-day.svg" width="380" alt="Caricature of Nicollas holding a coffee and a laptop covered in stickers, in a sports court turned office. The coffee steams, he blinks, the Wi-Fi sticker sends signals and a speech bubble types messages."/>
-</picture>
+<img src="./battle.gif" width="480" alt="Retro RPG battle: a wild PROD BUG appears. Nicollas uses ETL PIPELINE (super effective), his tests catch every NULL VALUES attack, FORECAST finishes the bug, he grows to level JUNIOR, and when asked HIRE NICOLLAS? the NO option runs away."/>
 
 <br><br>
 
@@ -27,77 +24,72 @@ Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Br
 
 <br>
 
-## 🔎 Explore the scene
+## 🎮 What will you do?
 
-<sub>Click the objects to take a closer look.</sub>
-
+<table>
+<tr>
+<td width="50%" valign="top">
 <details>
-<summary><b>☕ The coffee</b></summary>
+<summary><b>▶ FIGHT</b></summary>
 <br>
 
-Fuel for walk-forward validation. Every forecasting model I build is tested against the past, month by month, before it is allowed to predict the future.
+| Move | Type | Effect |
+|---|---|---|
+| **ETL PIPELINE** | Data Eng. | Collects, cleans and loads data, with automated tests |
+| **FORECAST** | ML | Time-series models validated walk-forward |
+| **SQL QUERY** | Databases | SQL Server · MySQL: joins, filters, extraction |
+| **PYTHON** | Core | pandas · NumPy · scikit-learn |
+| **DASHBOARD** | Analytics | Power BI reports people actually use |
 
 </details>
-
+</td>
+<td width="50%" valign="top">
 <details>
-<summary><b>🪪 The badge</b></summary>
+<summary><b>▶ BAG</b></summary>
 <br>
 
-| | |
-|---|---|
-| **Name** | Nicollas Abreu Svidevska de Camargo |
-| **Role** | Data Science & Data Engineering student |
-| **Base** | Sorocaba, SP, Brazil |
-| **Graduation** | Systems Analysis and Development, Dec 2026 |
-| **Languages** | Portuguese (native) · English (C1) |
-| **Status** | 🟢 Open to data internships and junior roles |
+🔮 **[Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura)**<br>
+<sub>Key item. Predicts prices 1 to 3 months ahead, served through FastAPI.</sub>
+
+📦 **[Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro)**<br>
+<sub>ETL pipeline for agribusiness sales data, with automated tests.</sub>
+
+🗂️ **Click Manager**<br>
+<sub>ASP.NET Core web system with JWT auth and SQL Server (PIM III).</sub>
+
+❔ **House Price Prediction**<br>
+<sub>Not found yet. Next item on the map.</sub>
 
 </details>
-
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <details>
-<summary><b>💻 The laptop stickers</b></summary>
+<summary><b>▶ TEAM</b></summary>
 <br>
 
-👽 **The alien:** [Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura), prices 1 to 3 months ahead from feed cost, exchange rate and inflation.<br>
-☕ **The coffee cup:** [Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro), an ETL pipeline with automated tests.<br>
-💀 **The skull:** Click Manager, a whole web system that survived the PIM III academic project.
+**NICOLLAS wants to join your team!**
+
+<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF8A3D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
 
 </details>
-
+</td>
+<td width="50%" valign="top">
 <details>
-<summary><b>😰 The worried emoji</b></summary>
+<summary><b>▶ RUN</b></summary>
 <br>
 
-That is a data pipeline failing in production. It is why my pipeline and my forecasting API ship with automated tests.
+**Can't escape!**<br>
+NICOLLAS is open to data internships and junior roles.
+
+🏆 Secret found. [Send a message with the subject "I tried to run"](mailto:nicollascamargo81@gmail.com?subject=I%20tried%20to%20run) and it's a coffee chat.
 
 </details>
-
-<details>
-<summary><b>⌚ The watch</b></summary>
-<br>
-
-Time series are my favorite kind of data: I can tell you what time it is, and what the price of chicken might be in three months.
-
-</details>
-
-<details>
-<summary><b>🎧 The headphones</b></summary>
-<br>
-
-Focus mode. Currently studying statistics for data science, machine learning and data engineering.
-
-</details>
-
-<details>
-<summary><b>🔒 Don't open this one</b></summary>
-<br>
-
-🏆 **Achievement unlocked: Curious Explorer.**<br>
-Your reward is a coffee chat: [claim it here](mailto:nicollascamargo81@gmail.com?subject=Achievement%20unlocked%3A%20Curious%20Explorer).
-
-🌙 Bonus: switch GitHub to dark mode and look at the picture again.
-
-</details>
+</td>
+</tr>
+</table>
 
 ## 🛰️ Ship Systems
 
