@@ -1,28 +1,16 @@
 <div align="center">
 
-<img src="./banner-espacial.svg" alt="Nicollas Camargo" width="100%"/>
+<img src="./assets/title.gif" width="100%" alt="Title screen: NICOLLAS, THE DATA QUEST. Press start."/>
 
 <a href="https://github.com/nicollascamargo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00E5FF&center=true&vCenter=true&width=720&lines=Charting+raw+data+into+reliable+decisions;ETL+pipelines+%C2%B7+Forecasting+%C2%B7+APIs;From+first+draft+to+something+that+runs+and+is+tested" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1300&color=F8D030&center=true&vCenter=true&width=640&lines=DATA+SCIENCE+%C2%B7+DATA+ENGINEERING+%C2%B7+ML;CATCHING+BUGS+BEFORE+PRODUCTION;OPEN+TO+DATA+INTERNSHIPS" alt="Data Science · Data Engineering · ML. Catching bugs before production. Open to data internships."/>
 </a>
 
 <br><br>
 
-<img src="./battle.gif" width="480" alt="Retro RPG battle: a wild PROD BUG appears. Nicollas uses ETL PIPELINE (super effective), his tests catch every NULL VALUES attack, FORECAST finishes the bug, he grows to level JUNIOR, and when asked HIRE NICOLLAS? the NO option runs away."/>
-
-<br><br>
-
-Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Brazil.
-
-<br>
-
-<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF8A3D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
-<a href="https://nicollascamargo.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<img src="./assets/battle.gif" width="480" alt="Retro RPG battle: a wild PROD BUG appears. Nicollas uses ETL PIPELINE (super effective), his tests catch every NULL VALUES attack, FORECAST finishes the bug, he grows to level JUNIOR, and when asked HIRE NICOLLAS? the NO option runs away."/>
 
 </div>
-
-<br>
 
 ## 🎮 What will you do?
 
@@ -30,7 +18,7 @@ Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Br
 <tr>
 <td width="50%" valign="top">
 <details>
-<summary><b>▶ FIGHT</b></summary>
+<summary><b>⚔️ FIGHT</b></summary>
 <br>
 
 | Move | Type | Effect |
@@ -45,11 +33,14 @@ Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Br
 </td>
 <td width="50%" valign="top">
 <details>
-<summary><b>▶ BAG</b></summary>
+<summary><b>🎒 BAG</b></summary>
 <br>
 
 🔮 **[Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura)**<br>
 <sub>Key item. Predicts prices 1 to 3 months ahead, served through FastAPI.</sub>
+
+📡 **[Data Job Radar](https://github.com/nicollascamargo/data-job-radar)**<br>
+<sub>Finds data jobs that match my CV twice a day and sends them to Telegram.</sub>
 
 📦 **[Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro)**<br>
 <sub>ETL pipeline for agribusiness sales data, with automated tests.</sub>
@@ -57,28 +48,24 @@ Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Br
 🗂️ **Click Manager**<br>
 <sub>ASP.NET Core web system with JWT auth and SQL Server (PIM III).</sub>
 
-❔ **House Price Prediction**<br>
-<sub>Not found yet. Next item on the map.</sub>
-
 </details>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <details>
-<summary><b>▶ TEAM</b></summary>
+<summary><b>👥 TEAM</b></summary>
 <br>
 
 **NICOLLAS wants to join your team!**
 
-<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF8A3D?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-48C864?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F8D030?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a>
 
 </details>
 </td>
 <td width="50%" valign="top">
 <details>
-<summary><b>▶ RUN</b></summary>
+<summary><b>🏃 RUN</b></summary>
 <br>
 
 **Can't escape!**<br>
@@ -91,175 +78,121 @@ NICOLLAS is open to data internships and junior roles.
 </tr>
 </table>
 
-## 🛰️ Ship Systems
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔄 Data pipelines
-ETL workflows that collect, clean and load data, with automated tests so the numbers can be trusted.
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Forecasting & ML
-Predictive models validated the right way (walk-forward for time series) and served through an API.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & APIs
-FastAPI and ASP.NET Core services with authentication, relational databases and documentation.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Analytics
-SQL and Power BI to turn data into dashboards people actually use to decide.
-
-</td>
-</tr>
-</table>
-
-## 🚀 Missions
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-🟢 **MISSION COMPLETE · DATA / ML**
-
-### [Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura)
-
-Chicken price forecasting model in Python, served through a FastAPI API and validated with walk-forward validation.
-
-`Python` · `FastAPI` · `scikit-learn`
-
-</td>
-<td width="50%" valign="top">
-
-🟢 **MISSION COMPLETE · DATA ENGINEERING**
-
-### [Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro)
-
-ETL pipeline in Python processing agribusiness sales data, with automated dashboard tests.
-
-`Python` · `Pandas` · `ETL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-🔵 **ACADEMY TRAINING · PIM III**
-
-### Click Manager
-
-Web management system for a photography studio: JWT authentication, accessibility documentation (LIBRAS) and a chapter applying Machine Learning to the system.
-
-`ASP.NET Core 8` · `Entity Framework Core` · `SQL Server`
-
-</td>
-<td width="50%" valign="top">
-
-🟠 **NEXT DESTINATION**
-
-### House Price Prediction
-
-Regression project with Python: feature engineering, model comparison and evaluation.
-
-`Python` · `scikit-learn`
-
-</td>
-</tr>
-</table>
-
-## 🧭 Flight Plan
-
-<table>
-<tr>
-<th>1. Scout</th>
-<th>2. Map</th>
-<th>3. Build</th>
-<th>4. Launch</th>
-</tr>
-<tr>
-<td>Define the question the data needs to answer.</td>
-<td>Clean, profile and validate the data before modeling.</td>
-<td>Model or pipeline with tests and honest validation.</td>
-<td>Deploy, document and make it easy to run.</td>
-</tr>
-</table>
-
-## 🪐 Orbit Map
+## 🪪 Trainer Card
 
 <div align="center">
-  <img src="./orbit-stack-logos.svg" alt="Tech stack orbiting the data core" width="85%"/>
+<img src="./assets/trainer-card.png" width="520" alt="Trainer card. Name: Nicollas. Class: Data Science and Data Engineering. Home: Sorocaba, SP. Languages: Portuguese and English C1. Graduation: December 2026. Status: open to work."/>
 </div>
-
-## 🧰 Module Bay
-
-<table align="center">
-<tr>
-<th>Languages</th>
-<th>Data & ML</th>
-<th>Backend</th>
-<th>Databases & BI</th>
-<th>Tools</th>
-</tr>
-<tr>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-  <br><sub>Python · R · C#</sub>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn"/>
-  <br><sub>pandas · NumPy · scikit-learn</sub>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET"/>
-  <br><sub>FastAPI · ASP.NET Core</sub>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server"/>
-  <img width="40" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
-  <br><sub>MySQL · SQL Server · Power BI</sub>
-</td>
-<td align="center">
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <br><sub>Git · GitHub</sub>
-</td>
-</tr>
-</table>
-
-## 🌌 Trajectory
-
-| Phase | Status |
-|---|---|
-| 📡 **Now** | Studying statistics for data science, machine learning and data engineering |
-| 🚀 **Next** | House price prediction project (regression with Python) |
-| 🎓 **Dec 2026** | Graduating in Systems Analysis and Development |
-| 🌍 **Long-term** | Data career and further studies internationally |
-
-Languages: Portuguese (native), English (C1). Open to junior roles and internships in data and AI, remote or international.
 
 <br>
 
+**Systems Analysis and Development** student at UNIP Sorocaba, graduating in December 2026, with 220+ hours of training in Data Science, Data Engineering and Machine Learning. I build pipelines, forecasts and APIs, and I test them before trusting them.
+
+## 🏅 Badge Case
+
+<div align="center">
+<img src="./assets/badges.gif" width="620" alt="Badge case with eight badges: Python, SQL, Pipeline, Forecast, API, Dashboard, Git, and one still locked."/>
+</div>
+
+<br>
+
+| Badge | Earned by |
+|---|---|
+| 🟡 **PYTHON** | pandas, NumPy and scikit-learn across my data projects |
+| 🔵 **SQL** | Queries, joins and relational modeling on SQL Server and MySQL |
+| 🟢 **PIPELINE** | ETL that collects, cleans and loads data, with automated tests |
+| 🟣 **FORECAST** | Time-series models validated walk-forward, month by month |
+| 🟠 **API** | FastAPI and ASP.NET Core services, with authentication |
+| 📊 **DASHBOARD** | Power BI dashboards and data visualization |
+| 🔴 **GIT** | Git and GitHub for every project, CI and scheduled GitHub Actions |
+| 🔒 **???** | Not earned yet. The next gym is on the map. |
+
+## 📜 Quest Log
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+✅ **QUEST COMPLETE**
+
+### [Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura)
+
+Predicts poultry prices 1 to 3 months ahead from feed cost, exchange rate and inflation. Validated walk-forward, beats the naive baseline at every horizon and is served through a FastAPI API with tests and CI.
+
+`Python` · `scikit-learn` · `FastAPI`<br>
+<sub>Reward: 🟣 FORECAST · 🟠 API</sub>
+
+</td>
+<td width="50%" valign="top">
+
+✅ **QUEST COMPLETE**
+
+### [Data Job Radar](https://github.com/nicollascamargo/data-job-radar)
+
+Searches LinkedIn, Indeed, Glassdoor and Adzuna twice a day for junior and internship data jobs, compares each one with the skills in my CV and sends the best ones to Telegram.
+
+`Python` · `SQLite` · `GitHub Actions`<br>
+<sub>Reward: 🟢 PIPELINE · 🔴 GIT</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+✅ **QUEST COMPLETE**
+
+### [Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro)
+
+ETL pipeline in Python that consolidates and processes agribusiness sales data, with automated tests for the dashboards it generates.
+
+`Python` · `pandas` · `ETL`<br>
+<sub>Reward: 🟢 PIPELINE · 📊 DASHBOARD</sub>
+
+</td>
+<td width="50%" valign="top">
+
+✅ **QUEST COMPLETE · ACADEMY**
+
+### Click Manager
+
+Web management system for a photography studio: JWT authentication, relational database modeling, accessibility documentation (LIBRAS) and a module applying Machine Learning.
+
+`ASP.NET Core 8` · `Entity Framework Core` · `SQL Server`<br>
+<sub>Reward: 🟠 API · 🔵 SQL</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+🔒 **NEXT QUEST** · **House Price Prediction**: regression with feature engineering and model comparison. `Python` · `scikit-learn` · <sub>Reward: ???</sub>
+
+</td>
+</tr>
+</table>
+
+## 🗺️ World Map
+
+| | Stage | |
+|:---:|---|---|
+| 🏠 | **TATUÍ** · 2022 | Sales and customer service: inventory control in Excel, spotting inconsistencies in the data |
+| 🏫 | **UNIP SOROCABA** · Feb 2025 | Systems Analysis and Development begins |
+| 🌲 | **TRAINING FOREST** | 220+ hours of Data Science, Data Engineering, AI and Data Analysis |
+| ⛰️ | **PROJECT PEAK** | Four quests complete: forecasting, ETL, a job radar and a web system |
+| 📍 | **YOU ARE HERE** | Studying statistics for data science, machine learning and data engineering |
+| 🏆 | **DEC 2026** | Graduation, and the first data role |
+| 🌍 | **POST-GAME** | A data career and further studies abroad |
+
+## 💾 Save Point
+
 <div align="center">
 
-**Have a data problem in mind? Open a channel.**
+**Would you like to save your progress?**
 
-<a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/OPEN_COMMS-00E5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Open comms"/></a>
+<a href="https://www.linkedin.com/in/nicollas-abreu-svidevska-de-camargo-0b148a351/"><img src="https://img.shields.io/badge/LINKEDIN-48C864?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="mailto:nicollascamargo81@gmail.com"><img src="https://img.shields.io/badge/EMAIL-F8D030?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"/></a> <a href="https://nicollascamargo.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=120&section=footer" width="100%" alt=""/>
+<br><br>
+
+<img src="./assets/footer.gif" width="100%" alt="Thanks for playing! Continue? Yes."/>
 
 </div>
