@@ -8,7 +8,10 @@
 
 <br><br>
 
-<img src="./pilot.gif" alt="Pixel-art portrait of Nicollas: an incoming transmission that tunes into a hologram, gains color over a starfield and blinks" width="240"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicollascamargo/nicollascamargo/main/scene-night.svg">
+  <img src="./scene-day.svg" width="380" alt="Caricature of Nicollas holding a coffee and a laptop covered in stickers, in a sports court turned office. The coffee steams, he blinks, the Wi-Fi sticker sends signals and a speech bubble types messages."/>
+</picture>
 
 <br><br>
 
@@ -23,6 +26,78 @@ Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Br
 </div>
 
 <br>
+
+## 🔎 Explore the scene
+
+<sub>Click the objects to take a closer look.</sub>
+
+<details>
+<summary><b>☕ The coffee</b></summary>
+<br>
+
+Fuel for walk-forward validation. Every forecasting model I build is tested against the past, month by month, before it is allowed to predict the future.
+
+</details>
+
+<details>
+<summary><b>🪪 The badge</b></summary>
+<br>
+
+| | |
+|---|---|
+| **Name** | Nicollas Abreu Svidevska de Camargo |
+| **Role** | Data Science & Data Engineering student |
+| **Base** | Sorocaba, SP, Brazil |
+| **Graduation** | Systems Analysis and Development, Dec 2026 |
+| **Languages** | Portuguese (native) · English (C1) |
+| **Status** | 🟢 Open to data internships and junior roles |
+
+</details>
+
+<details>
+<summary><b>💻 The laptop stickers</b></summary>
+<br>
+
+👽 **The alien:** [Poultry Price Forecasting](https://github.com/nicollascamargo/previsao-precos-avicultura), prices 1 to 3 months ahead from feed cost, exchange rate and inflation.<br>
+☕ **The coffee cup:** [Agro Sales Pipeline](https://github.com/nicollascamargo/pipeline-vendas-agro), an ETL pipeline with automated tests.<br>
+💀 **The skull:** Click Manager, a whole web system that survived the PIM III academic project.
+
+</details>
+
+<details>
+<summary><b>😰 The worried emoji</b></summary>
+<br>
+
+That is a data pipeline failing in production. It is why my pipeline and my forecasting API ship with automated tests.
+
+</details>
+
+<details>
+<summary><b>⌚ The watch</b></summary>
+<br>
+
+Time series are my favorite kind of data: I can tell you what time it is, and what the price of chicken might be in three months.
+
+</details>
+
+<details>
+<summary><b>🎧 The headphones</b></summary>
+<br>
+
+Focus mode. Currently studying statistics for data science, machine learning and data engineering.
+
+</details>
+
+<details>
+<summary><b>🔒 Don't open this one</b></summary>
+<br>
+
+🏆 **Achievement unlocked: Curious Explorer.**<br>
+Your reward is a coffee chat: [claim it here](mailto:nicollascamargo81@gmail.com?subject=Achievement%20unlocked%3A%20Curious%20Explorer).
+
+🌙 Bonus: switch GitHub to dark mode and look at the picture again.
+
+</details>
 
 ## 🛰️ Ship Systems
 
