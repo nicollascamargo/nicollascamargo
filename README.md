@@ -8,6 +8,10 @@
 
 <br><br>
 
+<img src="./pilot.gif" alt="Pixel-art portrait of Nicollas: an incoming transmission that tunes into a hologram, gains color over a starfield and blinks" width="240"/>
+
+<br><br>
+
 Data Science · Data Engineering · Machine Learning student in Sorocaba, SP, Brazil.
 
 <br>
